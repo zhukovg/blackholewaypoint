@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Добро пожаловать в #blackholewaypoint
 
-You can use the [editor on GitHub](https://github.com/supergowa/blackholewaypoint/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Тут вы можете узнать актуальную информацию о моих аккаунтах
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Scratch
 
-### Markdown
+Scratch ищите тут
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://scratch.mit.edu/users/BlackHole4Games/
 
-```markdown
-Syntax highlighted code block
+### Khanacademy
 
-# Header 1
-## Header 2
-### Header 3
+По адресу https://www.khanacademy.org/profile/ProtoniumCactus
 
-- Bulleted
-- List
+### Почта
 
-1. Numbered
-2. List
+Пока zhukovmirror@outlook.com
+Я не хочу чтобы мне спамили
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/supergowa/blackholewaypoint/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Внимание, по причине халатности сотрудников mail.ru, я утерял большую часть своих аккаунтов (приношу извинения). Теперь я буду записывать их здесь.
